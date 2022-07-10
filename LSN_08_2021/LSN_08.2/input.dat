@@ -1,0 +1,19 @@
+10
+100000
+100
+0.001
+100
+10000
+1
+0.625
+0.8
+
+  ReadInput >> temp;
+  ReadInput >> niter;
+  ReadInput >> vol;
+  ReadInput >> delta;
+  ReadInput >> nblk;
+  ReadInput >> nstep;
+  ReadInput >> restart_mode;
+  ReadInput >> sigma;
+  ReadInput >> mi;
